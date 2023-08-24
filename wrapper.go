@@ -1,4 +1,4 @@
-package viperwrapper
+package registrywrapper
 
 import (
 	"errors"
